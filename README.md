@@ -1,2 +1,0 @@
-# HikeTest
-techm
